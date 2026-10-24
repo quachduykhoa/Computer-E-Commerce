@@ -1,0 +1,395 @@
+E:\ChuongTrinhDaoTao\Năm 3\Công nghệ dotNet core\Đồ Án\Shopping\Shopping\bin\Debug\net8.0\appsettings.Development.json
+E:\ChuongTrinhDaoTao\Năm 3\Công nghệ dotNet core\Đồ Án\Shopping\Shopping\bin\Debug\net8.0\appsettings.json
+E:\ChuongTrinhDaoTao\Năm 3\Công nghệ dotNet core\Đồ Án\Shopping\Shopping\bin\Debug\net8.0\Shopping.staticwebassets.runtime.json
+E:\ChuongTrinhDaoTao\Năm 3\Công nghệ dotNet core\Đồ Án\Shopping\Shopping\bin\Debug\net8.0\Shopping.staticwebassets.endpoints.json
+E:\ChuongTrinhDaoTao\Năm 3\Công nghệ dotNet core\Đồ Án\Shopping\Shopping\bin\Debug\net8.0\Shopping.exe
+E:\ChuongTrinhDaoTao\Năm 3\Công nghệ dotNet core\Đồ Án\Shopping\Shopping\bin\Debug\net8.0\Shopping.deps.json
+E:\ChuongTrinhDaoTao\Năm 3\Công nghệ dotNet core\Đồ Án\Shopping\Shopping\bin\Debug\net8.0\Shopping.runtimeconfig.json
+E:\ChuongTrinhDaoTao\Năm 3\Công nghệ dotNet core\Đồ Án\Shopping\Shopping\bin\Debug\net8.0\Shopping.dll
+E:\ChuongTrinhDaoTao\Năm 3\Công nghệ dotNet core\Đồ Án\Shopping\Shopping\bin\Debug\net8.0\Shopping.pdb
+E:\ChuongTrinhDaoTao\Năm 3\Công nghệ dotNet core\Đồ Án\Shopping\Shopping\obj\Debug\net8.0\rpswa.dswa.cache.json
+E:\ChuongTrinhDaoTao\Năm 3\Công nghệ dotNet core\Đồ Án\Shopping\Shopping\obj\Debug\net8.0\Shopping.GeneratedMSBuildEditorConfig.editorconfig
+E:\ChuongTrinhDaoTao\Năm 3\Công nghệ dotNet core\Đồ Án\Shopping\Shopping\obj\Debug\net8.0\Shopping.AssemblyInfoInputs.cache
+E:\ChuongTrinhDaoTao\Năm 3\Công nghệ dotNet core\Đồ Án\Shopping\Shopping\obj\Debug\net8.0\Shopping.AssemblyInfo.cs
+E:\ChuongTrinhDaoTao\Năm 3\Công nghệ dotNet core\Đồ Án\Shopping\Shopping\obj\Debug\net8.0\Shopping.csproj.CoreCompileInputs.cache
+E:\ChuongTrinhDaoTao\Năm 3\Công nghệ dotNet core\Đồ Án\Shopping\Shopping\obj\Debug\net8.0\Shopping.MvcApplicationPartsAssemblyInfo.cache
+E:\ChuongTrinhDaoTao\Năm 3\Công nghệ dotNet core\Đồ Án\Shopping\Shopping\obj\Debug\net8.0\Shopping.RazorAssemblyInfo.cache
+E:\ChuongTrinhDaoTao\Năm 3\Công nghệ dotNet core\Đồ Án\Shopping\Shopping\obj\Debug\net8.0\Shopping.RazorAssemblyInfo.cs
+E:\ChuongTrinhDaoTao\Năm 3\Công nghệ dotNet core\Đồ Án\Shopping\Shopping\obj\Debug\net8.0\rjimswa.dswa.cache.json
+E:\ChuongTrinhDaoTao\Năm 3\Công nghệ dotNet core\Đồ Án\Shopping\Shopping\obj\Debug\net8.0\rjsmrazor.dswa.cache.json
+E:\ChuongTrinhDaoTao\Năm 3\Công nghệ dotNet core\Đồ Án\Shopping\Shopping\obj\Debug\net8.0\rjsmcshtml.dswa.cache.json
+E:\ChuongTrinhDaoTao\Năm 3\Công nghệ dotNet core\Đồ Án\Shopping\Shopping\obj\Debug\net8.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+E:\ChuongTrinhDaoTao\Năm 3\Công nghệ dotNet core\Đồ Án\Shopping\Shopping\obj\Debug\net8.0\scopedcss\bundle\Shopping.styles.css
+E:\ChuongTrinhDaoTao\Năm 3\Công nghệ dotNet core\Đồ Án\Shopping\Shopping\obj\Debug\net8.0\scopedcss\projectbundle\Shopping.bundle.scp.css
+E:\ChuongTrinhDaoTao\Năm 3\Công nghệ dotNet core\Đồ Án\Shopping\Shopping\obj\Debug\net8.0\staticwebassets.build.json
+E:\ChuongTrinhDaoTao\Năm 3\Công nghệ dotNet core\Đồ Án\Shopping\Shopping\obj\Debug\net8.0\staticwebassets.build.json.cache
+E:\ChuongTrinhDaoTao\Năm 3\Công nghệ dotNet core\Đồ Án\Shopping\Shopping\obj\Debug\net8.0\staticwebassets.development.json
+E:\ChuongTrinhDaoTao\Năm 3\Công nghệ dotNet core\Đồ Án\Shopping\Shopping\obj\Debug\net8.0\staticwebassets.build.endpoints.json
+E:\ChuongTrinhDaoTao\Năm 3\Công nghệ dotNet core\Đồ Án\Shopping\Shopping\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
+E:\ChuongTrinhDaoTao\Năm 3\Công nghệ dotNet core\Đồ Án\Shopping\Shopping\obj\Debug\net8.0\Shopping.dll
+E:\ChuongTrinhDaoTao\Năm 3\Công nghệ dotNet core\Đồ Án\Shopping\Shopping\obj\Debug\net8.0\refint\Shopping.dll
+E:\ChuongTrinhDaoTao\Năm 3\Công nghệ dotNet core\Đồ Án\Shopping\Shopping\obj\Debug\net8.0\Shopping.pdb
+E:\ChuongTrinhDaoTao\Năm 3\Công nghệ dotNet core\Đồ Án\Shopping\Shopping\obj\Debug\net8.0\Shopping.genruntimeconfig.cache
+E:\ChuongTrinhDaoTao\Năm 3\Công nghệ dotNet core\Đồ Án\Shopping\Shopping\obj\Debug\net8.0\ref\Shopping.dll
+E:\ChuongTrinhDaoTao\Năm 3\Công nghệ dotNet core\Đồ Án\Shopping\Shopping\bin\Debug\net8.0\Azure.Core.dll
+E:\ChuongTrinhDaoTao\Năm 3\Công nghệ dotNet core\Đồ Án\Shopping\Shopping\bin\Debug\net8.0\Azure.Identity.dll
+E:\ChuongTrinhDaoTao\Năm 3\Công nghệ dotNet core\Đồ Án\Shopping\Shopping\bin\Debug\net8.0\Humanizer.dll
+E:\ChuongTrinhDaoTao\Năm 3\Công nghệ dotNet core\Đồ Án\Shopping\Shopping\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+E:\ChuongTrinhDaoTao\Năm 3\Công nghệ dotNet core\Đồ Án\Shopping\Shopping\bin\Debug\net8.0\Microsoft.Build.Locator.dll
+E:\ChuongTrinhDaoTao\Năm 3\Công nghệ dotNet core\Đồ Án\Shopping\Shopping\bin\Debug\net8.0\Microsoft.CodeAnalysis.dll
+E:\ChuongTrinhDaoTao\Năm 3\Công nghệ dotNet core\Đồ Án\Shopping\Shopping\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.dll
+E:\ChuongTrinhDaoTao\Năm 3\Công nghệ dotNet core\Đồ Án\Shopping\Shopping\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+E:\ChuongTrinhDaoTao\Năm 3\Công nghệ dotNet core\Đồ Án\Shopping\Shopping\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.dll
+E:\ChuongTrinhDaoTao\Năm 3\Công nghệ dotNet core\Đồ Án\Shopping\Shopping\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.dll
+E:\ChuongTrinhDaoTao\Năm 3\Công nghệ dotNet core\Đồ Án\Shopping\Shopping\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.dll
+E:\ChuongTrinhDaoTao\Năm 3\Công nghệ dotNet core\Đồ Án\Shopping\Shopping\bin\Debug\net8.0\Microsoft.Data.SqlClient.dll
+E:\ChuongTrinhDaoTao\Năm 3\Công nghệ dotNet core\Đồ Án\Shopping\Shopping\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+E:\ChuongTrinhDaoTao\Năm 3\Công nghệ dotNet core\Đồ Án\Shopping\Shopping\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+E:\ChuongTrinhDaoTao\Năm 3\Công nghệ dotNet core\Đồ Án\Shopping\Shopping\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Design.dll
+E:\ChuongTrinhDaoTao\Năm 3\Công nghệ dotNet core\Đồ Án\Shopping\Shopping\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+E:\ChuongTrinhDaoTao\Năm 3\Công nghệ dotNet core\Đồ Án\Shopping\Shopping\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+E:\ChuongTrinhDaoTao\Năm 3\Công nghệ dotNet core\Đồ Án\Shopping\Shopping\bin\Debug\net8.0\Microsoft.Extensions.Caching.Abstractions.dll
+E:\ChuongTrinhDaoTao\Năm 3\Công nghệ dotNet core\Đồ Án\Shopping\Shopping\bin\Debug\net8.0\Microsoft.Extensions.Caching.Memory.dll
+E:\ChuongTrinhDaoTao\Năm 3\Công nghệ dotNet core\Đồ Án\Shopping\Shopping\bin\Debug\net8.0\Microsoft.Extensions.Configuration.Abstractions.dll
+E:\ChuongTrinhDaoTao\Năm 3\Công nghệ dotNet core\Đồ Án\Shopping\Shopping\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.dll
+E:\ChuongTrinhDaoTao\Năm 3\Công nghệ dotNet core\Đồ Án\Shopping\Shopping\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+E:\ChuongTrinhDaoTao\Năm 3\Công nghệ dotNet core\Đồ Án\Shopping\Shopping\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
+E:\ChuongTrinhDaoTao\Năm 3\Công nghệ dotNet core\Đồ Án\Shopping\Shopping\bin\Debug\net8.0\Microsoft.Extensions.Logging.dll
+E:\ChuongTrinhDaoTao\Năm 3\Công nghệ dotNet core\Đồ Án\Shopping\Shopping\bin\Debug\net8.0\Microsoft.Extensions.Logging.Abstractions.dll
+E:\ChuongTrinhDaoTao\Năm 3\Công nghệ dotNet core\Đồ Án\Shopping\Shopping\bin\Debug\net8.0\Microsoft.Extensions.Options.dll
+E:\ChuongTrinhDaoTao\Năm 3\Công nghệ dotNet core\Đồ Án\Shopping\Shopping\bin\Debug\net8.0\Microsoft.Extensions.Primitives.dll
+E:\ChuongTrinhDaoTao\Năm 3\Công nghệ dotNet core\Đồ Án\Shopping\Shopping\bin\Debug\net8.0\Microsoft.Identity.Client.dll
+E:\ChuongTrinhDaoTao\Năm 3\Công nghệ dotNet core\Đồ Án\Shopping\Shopping\bin\Debug\net8.0\Microsoft.Identity.Client.Extensions.Msal.dll
+E:\ChuongTrinhDaoTao\Năm 3\Công nghệ dotNet core\Đồ Án\Shopping\Shopping\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+E:\ChuongTrinhDaoTao\Năm 3\Công nghệ dotNet core\Đồ Án\Shopping\Shopping\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+E:\ChuongTrinhDaoTao\Năm 3\Công nghệ dotNet core\Đồ Án\Shopping\Shopping\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+E:\ChuongTrinhDaoTao\Năm 3\Công nghệ dotNet core\Đồ Án\Shopping\Shopping\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+E:\ChuongTrinhDaoTao\Năm 3\Công nghệ dotNet core\Đồ Án\Shopping\Shopping\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+E:\ChuongTrinhDaoTao\Năm 3\Công nghệ dotNet core\Đồ Án\Shopping\Shopping\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+E:\ChuongTrinhDaoTao\Năm 3\Công nghệ dotNet core\Đồ Án\Shopping\Shopping\bin\Debug\net8.0\Microsoft.SqlServer.Server.dll
+E:\ChuongTrinhDaoTao\Năm 3\Công nghệ dotNet core\Đồ Án\Shopping\Shopping\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
+E:\ChuongTrinhDaoTao\Năm 3\Công nghệ dotNet core\Đồ Án\Shopping\Shopping\bin\Debug\net8.0\Mono.TextTemplating.dll
+E:\ChuongTrinhDaoTao\Năm 3\Công nghệ dotNet core\Đồ Án\Shopping\Shopping\bin\Debug\net8.0\System.ClientModel.dll
+E:\ChuongTrinhDaoTao\Năm 3\Công nghệ dotNet core\Đồ Án\Shopping\Shopping\bin\Debug\net8.0\System.CodeDom.dll
+E:\ChuongTrinhDaoTao\Năm 3\Công nghệ dotNet core\Đồ Án\Shopping\Shopping\bin\Debug\net8.0\System.Composition.AttributedModel.dll
+E:\ChuongTrinhDaoTao\Năm 3\Công nghệ dotNet core\Đồ Án\Shopping\Shopping\bin\Debug\net8.0\System.Composition.Convention.dll
+E:\ChuongTrinhDaoTao\Năm 3\Công nghệ dotNet core\Đồ Án\Shopping\Shopping\bin\Debug\net8.0\System.Composition.Hosting.dll
+E:\ChuongTrinhDaoTao\Năm 3\Công nghệ dotNet core\Đồ Án\Shopping\Shopping\bin\Debug\net8.0\System.Composition.Runtime.dll
+E:\ChuongTrinhDaoTao\Năm 3\Công nghệ dotNet core\Đồ Án\Shopping\Shopping\bin\Debug\net8.0\System.Composition.TypedParts.dll
+E:\ChuongTrinhDaoTao\Năm 3\Công nghệ dotNet core\Đồ Án\Shopping\Shopping\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+E:\ChuongTrinhDaoTao\Năm 3\Công nghệ dotNet core\Đồ Án\Shopping\Shopping\bin\Debug\net8.0\System.Diagnostics.DiagnosticSource.dll
+E:\ChuongTrinhDaoTao\Năm 3\Công nghệ dotNet core\Đồ Án\Shopping\Shopping\bin\Debug\net8.0\System.Drawing.Common.dll
+E:\ChuongTrinhDaoTao\Năm 3\Công nghệ dotNet core\Đồ Án\Shopping\Shopping\bin\Debug\net8.0\System.Formats.Asn1.dll
+E:\ChuongTrinhDaoTao\Năm 3\Công nghệ dotNet core\Đồ Án\Shopping\Shopping\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+E:\ChuongTrinhDaoTao\Năm 3\Công nghệ dotNet core\Đồ Án\Shopping\Shopping\bin\Debug\net8.0\System.IO.Pipelines.dll
+E:\ChuongTrinhDaoTao\Năm 3\Công nghệ dotNet core\Đồ Án\Shopping\Shopping\bin\Debug\net8.0\System.Memory.Data.dll
+E:\ChuongTrinhDaoTao\Năm 3\Công nghệ dotNet core\Đồ Án\Shopping\Shopping\bin\Debug\net8.0\System.Runtime.Caching.dll
+E:\ChuongTrinhDaoTao\Năm 3\Công nghệ dotNet core\Đồ Án\Shopping\Shopping\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+E:\ChuongTrinhDaoTao\Năm 3\Công nghệ dotNet core\Đồ Án\Shopping\Shopping\bin\Debug\net8.0\System.Security.Permissions.dll
+E:\ChuongTrinhDaoTao\Năm 3\Công nghệ dotNet core\Đồ Án\Shopping\Shopping\bin\Debug\net8.0\System.Text.Encodings.Web.dll
+E:\ChuongTrinhDaoTao\Năm 3\Công nghệ dotNet core\Đồ Án\Shopping\Shopping\bin\Debug\net8.0\System.Text.Json.dll
+E:\ChuongTrinhDaoTao\Năm 3\Công nghệ dotNet core\Đồ Án\Shopping\Shopping\bin\Debug\net8.0\System.Windows.Extensions.dll
+E:\ChuongTrinhDaoTao\Năm 3\Công nghệ dotNet core\Đồ Án\Shopping\Shopping\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.resources.dll
+E:\ChuongTrinhDaoTao\Năm 3\Công nghệ dotNet core\Đồ Án\Shopping\Shopping\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.resources.dll
+E:\ChuongTrinhDaoTao\Năm 3\Công nghệ dotNet core\Đồ Án\Shopping\Shopping\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.resources.dll
+E:\ChuongTrinhDaoTao\Năm 3\Công nghệ dotNet core\Đồ Án\Shopping\Shopping\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.resources.dll
+E:\ChuongTrinhDaoTao\Năm 3\Công nghệ dotNet core\Đồ Án\Shopping\Shopping\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.resources.dll
+E:\ChuongTrinhDaoTao\Năm 3\Công nghệ dotNet core\Đồ Án\Shopping\Shopping\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.resources.dll
+E:\ChuongTrinhDaoTao\Năm 3\Công nghệ dotNet core\Đồ Án\Shopping\Shopping\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.resources.dll
+E:\ChuongTrinhDaoTao\Năm 3\Công nghệ dotNet core\Đồ Án\Shopping\Shopping\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.resources.dll
+E:\ChuongTrinhDaoTao\Năm 3\Công nghệ dotNet core\Đồ Án\Shopping\Shopping\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+E:\ChuongTrinhDaoTao\Năm 3\Công nghệ dotNet core\Đồ Án\Shopping\Shopping\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.resources.dll
+E:\ChuongTrinhDaoTao\Năm 3\Công nghệ dotNet core\Đồ Án\Shopping\Shopping\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.resources.dll
+E:\ChuongTrinhDaoTao\Năm 3\Công nghệ dotNet core\Đồ Án\Shopping\Shopping\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+E:\ChuongTrinhDaoTao\Năm 3\Công nghệ dotNet core\Đồ Án\Shopping\Shopping\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+E:\ChuongTrinhDaoTao\Năm 3\Công nghệ dotNet core\Đồ Án\Shopping\Shopping\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\ChuongTrinhDaoTao\Năm 3\Công nghệ dotNet core\Đồ Án\Shopping\Shopping\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\ChuongTrinhDaoTao\Năm 3\Công nghệ dotNet core\Đồ Án\Shopping\Shopping\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\ChuongTrinhDaoTao\Năm 3\Công nghệ dotNet core\Đồ Án\Shopping\Shopping\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\ChuongTrinhDaoTao\Năm 3\Công nghệ dotNet core\Đồ Án\Shopping\Shopping\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\ChuongTrinhDaoTao\Năm 3\Công nghệ dotNet core\Đồ Án\Shopping\Shopping\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\ChuongTrinhDaoTao\Năm 3\Công nghệ dotNet core\Đồ Án\Shopping\Shopping\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\ChuongTrinhDaoTao\Năm 3\Công nghệ dotNet core\Đồ Án\Shopping\Shopping\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\ChuongTrinhDaoTao\Năm 3\Công nghệ dotNet core\Đồ Án\Shopping\Shopping\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\ChuongTrinhDaoTao\Năm 3\Công nghệ dotNet core\Đồ Án\Shopping\Shopping\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\ChuongTrinhDaoTao\Năm 3\Công nghệ dotNet core\Đồ Án\Shopping\Shopping\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\ChuongTrinhDaoTao\Năm 3\Công nghệ dotNet core\Đồ Án\Shopping\Shopping\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\ChuongTrinhDaoTao\Năm 3\Công nghệ dotNet core\Đồ Án\Shopping\Shopping\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\ChuongTrinhDaoTao\Năm 3\Công nghệ dotNet core\Đồ Án\Shopping\Shopping\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\ChuongTrinhDaoTao\Năm 3\Công nghệ dotNet core\Đồ Án\Shopping\Shopping\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\ChuongTrinhDaoTao\Năm 3\Công nghệ dotNet core\Đồ Án\Shopping\Shopping\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\ChuongTrinhDaoTao\Năm 3\Công nghệ dotNet core\Đồ Án\Shopping\Shopping\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\ChuongTrinhDaoTao\Năm 3\Công nghệ dotNet core\Đồ Án\Shopping\Shopping\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\ChuongTrinhDaoTao\Năm 3\Công nghệ dotNet core\Đồ Án\Shopping\Shopping\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\ChuongTrinhDaoTao\Năm 3\Công nghệ dotNet core\Đồ Án\Shopping\Shopping\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\ChuongTrinhDaoTao\Năm 3\Công nghệ dotNet core\Đồ Án\Shopping\Shopping\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\ChuongTrinhDaoTao\Năm 3\Công nghệ dotNet core\Đồ Án\Shopping\Shopping\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\ChuongTrinhDaoTao\Năm 3\Công nghệ dotNet core\Đồ Án\Shopping\Shopping\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\ChuongTrinhDaoTao\Năm 3\Công nghệ dotNet core\Đồ Án\Shopping\Shopping\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\ChuongTrinhDaoTao\Năm 3\Công nghệ dotNet core\Đồ Án\Shopping\Shopping\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\ChuongTrinhDaoTao\Năm 3\Công nghệ dotNet core\Đồ Án\Shopping\Shopping\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\ChuongTrinhDaoTao\Năm 3\Công nghệ dotNet core\Đồ Án\Shopping\Shopping\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\ChuongTrinhDaoTao\Năm 3\Công nghệ dotNet core\Đồ Án\Shopping\Shopping\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\ChuongTrinhDaoTao\Năm 3\Công nghệ dotNet core\Đồ Án\Shopping\Shopping\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\ChuongTrinhDaoTao\Năm 3\Công nghệ dotNet core\Đồ Án\Shopping\Shopping\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\ChuongTrinhDaoTao\Năm 3\Công nghệ dotNet core\Đồ Án\Shopping\Shopping\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\ChuongTrinhDaoTao\Năm 3\Công nghệ dotNet core\Đồ Án\Shopping\Shopping\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\ChuongTrinhDaoTao\Năm 3\Công nghệ dotNet core\Đồ Án\Shopping\Shopping\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\ChuongTrinhDaoTao\Năm 3\Công nghệ dotNet core\Đồ Án\Shopping\Shopping\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\ChuongTrinhDaoTao\Năm 3\Công nghệ dotNet core\Đồ Án\Shopping\Shopping\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\ChuongTrinhDaoTao\Năm 3\Công nghệ dotNet core\Đồ Án\Shopping\Shopping\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\ChuongTrinhDaoTao\Năm 3\Công nghệ dotNet core\Đồ Án\Shopping\Shopping\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\ChuongTrinhDaoTao\Năm 3\Công nghệ dotNet core\Đồ Án\Shopping\Shopping\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\ChuongTrinhDaoTao\Năm 3\Công nghệ dotNet core\Đồ Án\Shopping\Shopping\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\ChuongTrinhDaoTao\Năm 3\Công nghệ dotNet core\Đồ Án\Shopping\Shopping\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+E:\ChuongTrinhDaoTao\Năm 3\Công nghệ dotNet core\Đồ Án\Shopping\Shopping\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+E:\ChuongTrinhDaoTao\Năm 3\Công nghệ dotNet core\Đồ Án\Shopping\Shopping\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+E:\ChuongTrinhDaoTao\Năm 3\Công nghệ dotNet core\Đồ Án\Shopping\Shopping\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+E:\ChuongTrinhDaoTao\Năm 3\Công nghệ dotNet core\Đồ Án\Shopping\Shopping\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+E:\ChuongTrinhDaoTao\Năm 3\Công nghệ dotNet core\Đồ Án\Shopping\Shopping\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+E:\ChuongTrinhDaoTao\Năm 3\Công nghệ dotNet core\Đồ Án\Shopping\Shopping\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+E:\ChuongTrinhDaoTao\Năm 3\Công nghệ dotNet core\Đồ Án\Shopping\Shopping\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+E:\ChuongTrinhDaoTao\Năm 3\Công nghệ dotNet core\Đồ Án\Shopping\Shopping\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+E:\ChuongTrinhDaoTao\Năm 3\Công nghệ dotNet core\Đồ Án\Shopping\Shopping\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+E:\ChuongTrinhDaoTao\Năm 3\Công nghệ dotNet core\Đồ Án\Shopping\Shopping\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+E:\ChuongTrinhDaoTao\Năm 3\Công nghệ dotNet core\Đồ Án\Shopping\Shopping\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+E:\ChuongTrinhDaoTao\Năm 3\Công nghệ dotNet core\Đồ Án\Shopping\Shopping\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+E:\ChuongTrinhDaoTao\Năm 3\Công nghệ dotNet core\Đồ Án\Shopping\Shopping\bin\Debug\net8.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+E:\ChuongTrinhDaoTao\Năm 3\Công nghệ dotNet core\Đồ Án\Shopping\Shopping\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+E:\ChuongTrinhDaoTao\Năm 3\Công nghệ dotNet core\Đồ Án\Shopping\Shopping\bin\Debug\net8.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+E:\ChuongTrinhDaoTao\Năm 3\Công nghệ dotNet core\Đồ Án\Shopping\Shopping\bin\Debug\net8.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\ChuongTrinhDaoTao\Năm 3\Công nghệ dotNet core\Đồ Án\Shopping\Shopping\bin\Debug\net8.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\ChuongTrinhDaoTao\Năm 3\Công nghệ dotNet core\Đồ Án\Shopping\Shopping\bin\Debug\net8.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+E:\ChuongTrinhDaoTao\Năm 3\Công nghệ dotNet core\Đồ Án\Shopping\Shopping\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+E:\ChuongTrinhDaoTao\Năm 3\Công nghệ dotNet core\Đồ Án\Shopping\Shopping\bin\Debug\net8.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+E:\ChuongTrinhDaoTao\Năm 3\Công nghệ dotNet core\Đồ Án\Shopping\Shopping\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+E:\ChuongTrinhDaoTao\Năm 3\Công nghệ dotNet core\Đồ Án\Shopping\Shopping\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+E:\ChuongTrinhDaoTao\Năm 3\Công nghệ dotNet core\Đồ Án\Shopping\Shopping\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+E:\ChuongTrinhDaoTao\Năm 3\Công nghệ dotNet core\Đồ Án\Shopping\Shopping\bin\Debug\net8.0\runtimes\browser\lib\net8.0\System.Text.Encodings.Web.dll
+E:\ChuongTrinhDaoTao\Năm 3\Công nghệ dotNet core\Đồ Án\Shopping\Shopping\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+E:\ChuongTrinhDaoTao\Năm 3\Công nghệ dotNet core\Đồ Án\Shopping\Shopping\obj\Debug\net8.0\Shopping.csproj.AssemblyReference.cache
+E:\ChuongTrinhDaoTao\Năm 3\Công nghệ dotNet core\Đồ Án\Shopping\Shopping\obj\Debug\net8.0\Shopping.csproj.Up2Date
+E:\ChuongTrinhDaoTao\Năm 3\Công nghệ dotNet core\Đồ Án\Shopping\Shopping\bin\Debug\net8.0\Newtonsoft.Json.dll
+E:\ChuongTrinhDaoTao\Năm 3\Công nghệ dotNet core\Đồ Án\Shopping\Shopping\obj\Debug\net8.0\scopedcss\Areas\Admin\Views\Shared\_Layout.cshtml.rz.scp.css
+E:\ChuongTrinhDaoTao\Nam3\CongNgheDotNet_Core\BaiTapLon\Shopping\Shopping\bin\Debug\net8.0\appsettings.Development.json
+E:\ChuongTrinhDaoTao\Nam3\CongNgheDotNet_Core\BaiTapLon\Shopping\Shopping\bin\Debug\net8.0\appsettings.json
+E:\ChuongTrinhDaoTao\Nam3\CongNgheDotNet_Core\BaiTapLon\Shopping\Shopping\bin\Debug\net8.0\Shopping.staticwebassets.runtime.json
+E:\ChuongTrinhDaoTao\Nam3\CongNgheDotNet_Core\BaiTapLon\Shopping\Shopping\bin\Debug\net8.0\Shopping.staticwebassets.endpoints.json
+E:\ChuongTrinhDaoTao\Nam3\CongNgheDotNet_Core\BaiTapLon\Shopping\Shopping\bin\Debug\net8.0\Shopping.exe
+E:\ChuongTrinhDaoTao\Nam3\CongNgheDotNet_Core\BaiTapLon\Shopping\Shopping\bin\Debug\net8.0\Shopping.deps.json
+E:\ChuongTrinhDaoTao\Nam3\CongNgheDotNet_Core\BaiTapLon\Shopping\Shopping\bin\Debug\net8.0\Shopping.runtimeconfig.json
+E:\ChuongTrinhDaoTao\Nam3\CongNgheDotNet_Core\BaiTapLon\Shopping\Shopping\bin\Debug\net8.0\Shopping.dll
+E:\ChuongTrinhDaoTao\Nam3\CongNgheDotNet_Core\BaiTapLon\Shopping\Shopping\bin\Debug\net8.0\Shopping.pdb
+E:\ChuongTrinhDaoTao\Nam3\CongNgheDotNet_Core\BaiTapLon\Shopping\Shopping\bin\Debug\net8.0\Humanizer.dll
+E:\ChuongTrinhDaoTao\Nam3\CongNgheDotNet_Core\BaiTapLon\Shopping\Shopping\bin\Debug\net8.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+E:\ChuongTrinhDaoTao\Nam3\CongNgheDotNet_Core\BaiTapLon\Shopping\Shopping\bin\Debug\net8.0\Microsoft.Data.SqlClient.dll
+E:\ChuongTrinhDaoTao\Nam3\CongNgheDotNet_Core\BaiTapLon\Shopping\Shopping\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+E:\ChuongTrinhDaoTao\Nam3\CongNgheDotNet_Core\BaiTapLon\Shopping\Shopping\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+E:\ChuongTrinhDaoTao\Nam3\CongNgheDotNet_Core\BaiTapLon\Shopping\Shopping\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Design.dll
+E:\ChuongTrinhDaoTao\Nam3\CongNgheDotNet_Core\BaiTapLon\Shopping\Shopping\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+E:\ChuongTrinhDaoTao\Nam3\CongNgheDotNet_Core\BaiTapLon\Shopping\Shopping\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+E:\ChuongTrinhDaoTao\Nam3\CongNgheDotNet_Core\BaiTapLon\Shopping\Shopping\bin\Debug\net8.0\Microsoft.Identity.Client.dll
+E:\ChuongTrinhDaoTao\Nam3\CongNgheDotNet_Core\BaiTapLon\Shopping\Shopping\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+E:\ChuongTrinhDaoTao\Nam3\CongNgheDotNet_Core\BaiTapLon\Shopping\Shopping\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+E:\ChuongTrinhDaoTao\Nam3\CongNgheDotNet_Core\BaiTapLon\Shopping\Shopping\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+E:\ChuongTrinhDaoTao\Nam3\CongNgheDotNet_Core\BaiTapLon\Shopping\Shopping\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+E:\ChuongTrinhDaoTao\Nam3\CongNgheDotNet_Core\BaiTapLon\Shopping\Shopping\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+E:\ChuongTrinhDaoTao\Nam3\CongNgheDotNet_Core\BaiTapLon\Shopping\Shopping\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
+E:\ChuongTrinhDaoTao\Nam3\CongNgheDotNet_Core\BaiTapLon\Shopping\Shopping\bin\Debug\net8.0\Newtonsoft.Json.dll
+E:\ChuongTrinhDaoTao\Nam3\CongNgheDotNet_Core\BaiTapLon\Shopping\Shopping\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+E:\ChuongTrinhDaoTao\Nam3\CongNgheDotNet_Core\BaiTapLon\Shopping\Shopping\bin\Debug\net8.0\System.Drawing.Common.dll
+E:\ChuongTrinhDaoTao\Nam3\CongNgheDotNet_Core\BaiTapLon\Shopping\Shopping\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+E:\ChuongTrinhDaoTao\Nam3\CongNgheDotNet_Core\BaiTapLon\Shopping\Shopping\bin\Debug\net8.0\System.Runtime.Caching.dll
+E:\ChuongTrinhDaoTao\Nam3\CongNgheDotNet_Core\BaiTapLon\Shopping\Shopping\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+E:\ChuongTrinhDaoTao\Nam3\CongNgheDotNet_Core\BaiTapLon\Shopping\Shopping\bin\Debug\net8.0\System.Security.Permissions.dll
+E:\ChuongTrinhDaoTao\Nam3\CongNgheDotNet_Core\BaiTapLon\Shopping\Shopping\bin\Debug\net8.0\System.Windows.Extensions.dll
+E:\ChuongTrinhDaoTao\Nam3\CongNgheDotNet_Core\BaiTapLon\Shopping\Shopping\bin\Debug\net8.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\ChuongTrinhDaoTao\Nam3\CongNgheDotNet_Core\BaiTapLon\Shopping\Shopping\bin\Debug\net8.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\ChuongTrinhDaoTao\Nam3\CongNgheDotNet_Core\BaiTapLon\Shopping\Shopping\bin\Debug\net8.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+E:\ChuongTrinhDaoTao\Nam3\CongNgheDotNet_Core\BaiTapLon\Shopping\Shopping\bin\Debug\net8.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\ChuongTrinhDaoTao\Nam3\CongNgheDotNet_Core\BaiTapLon\Shopping\Shopping\bin\Debug\net8.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\ChuongTrinhDaoTao\Nam3\CongNgheDotNet_Core\BaiTapLon\Shopping\Shopping\bin\Debug\net8.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+E:\ChuongTrinhDaoTao\Nam3\CongNgheDotNet_Core\BaiTapLon\Shopping\Shopping\bin\Debug\net8.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+E:\ChuongTrinhDaoTao\Nam3\CongNgheDotNet_Core\BaiTapLon\Shopping\Shopping\bin\Debug\net8.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+E:\ChuongTrinhDaoTao\Nam3\CongNgheDotNet_Core\BaiTapLon\Shopping\Shopping\bin\Debug\net8.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+E:\ChuongTrinhDaoTao\Nam3\CongNgheDotNet_Core\BaiTapLon\Shopping\Shopping\bin\Debug\net8.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+E:\ChuongTrinhDaoTao\Nam3\CongNgheDotNet_Core\BaiTapLon\Shopping\Shopping\bin\Debug\net8.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+E:\ChuongTrinhDaoTao\Nam3\CongNgheDotNet_Core\BaiTapLon\Shopping\Shopping\bin\Debug\net8.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+E:\ChuongTrinhDaoTao\Nam3\CongNgheDotNet_Core\BaiTapLon\Shopping\Shopping\obj\Debug\net8.0\Shopping.csproj.AssemblyReference.cache
+E:\ChuongTrinhDaoTao\Nam3\CongNgheDotNet_Core\BaiTapLon\Shopping\Shopping\obj\Debug\net8.0\rpswa.dswa.cache.json
+E:\ChuongTrinhDaoTao\Nam3\CongNgheDotNet_Core\BaiTapLon\Shopping\Shopping\obj\Debug\net8.0\Shopping.GeneratedMSBuildEditorConfig.editorconfig
+E:\ChuongTrinhDaoTao\Nam3\CongNgheDotNet_Core\BaiTapLon\Shopping\Shopping\obj\Debug\net8.0\Shopping.AssemblyInfoInputs.cache
+E:\ChuongTrinhDaoTao\Nam3\CongNgheDotNet_Core\BaiTapLon\Shopping\Shopping\obj\Debug\net8.0\Shopping.AssemblyInfo.cs
+E:\ChuongTrinhDaoTao\Nam3\CongNgheDotNet_Core\BaiTapLon\Shopping\Shopping\obj\Debug\net8.0\Shopping.csproj.CoreCompileInputs.cache
+E:\ChuongTrinhDaoTao\Nam3\CongNgheDotNet_Core\BaiTapLon\Shopping\Shopping\obj\Debug\net8.0\Shopping.MvcApplicationPartsAssemblyInfo.cache
+E:\ChuongTrinhDaoTao\Nam3\CongNgheDotNet_Core\BaiTapLon\Shopping\Shopping\obj\Debug\net8.0\Shopping.RazorAssemblyInfo.cache
+E:\ChuongTrinhDaoTao\Nam3\CongNgheDotNet_Core\BaiTapLon\Shopping\Shopping\obj\Debug\net8.0\Shopping.RazorAssemblyInfo.cs
+E:\ChuongTrinhDaoTao\Nam3\CongNgheDotNet_Core\BaiTapLon\Shopping\Shopping\obj\Debug\net8.0\rjimswa.dswa.cache.json
+E:\ChuongTrinhDaoTao\Nam3\CongNgheDotNet_Core\BaiTapLon\Shopping\Shopping\obj\Debug\net8.0\rjsmrazor.dswa.cache.json
+E:\ChuongTrinhDaoTao\Nam3\CongNgheDotNet_Core\BaiTapLon\Shopping\Shopping\obj\Debug\net8.0\rjsmcshtml.dswa.cache.json
+E:\ChuongTrinhDaoTao\Nam3\CongNgheDotNet_Core\BaiTapLon\Shopping\Shopping\obj\Debug\net8.0\scopedcss\Areas\Admin\Views\Shared\_Layout.cshtml.rz.scp.css
+E:\ChuongTrinhDaoTao\Nam3\CongNgheDotNet_Core\BaiTapLon\Shopping\Shopping\obj\Debug\net8.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+E:\ChuongTrinhDaoTao\Nam3\CongNgheDotNet_Core\BaiTapLon\Shopping\Shopping\obj\Debug\net8.0\scopedcss\bundle\Shopping.styles.css
+E:\ChuongTrinhDaoTao\Nam3\CongNgheDotNet_Core\BaiTapLon\Shopping\Shopping\obj\Debug\net8.0\scopedcss\projectbundle\Shopping.bundle.scp.css
+E:\ChuongTrinhDaoTao\Nam3\CongNgheDotNet_Core\BaiTapLon\Shopping\Shopping\obj\Debug\net8.0\staticwebassets.build.json
+E:\ChuongTrinhDaoTao\Nam3\CongNgheDotNet_Core\BaiTapLon\Shopping\Shopping\obj\Debug\net8.0\staticwebassets.build.json.cache
+E:\ChuongTrinhDaoTao\Nam3\CongNgheDotNet_Core\BaiTapLon\Shopping\Shopping\obj\Debug\net8.0\staticwebassets.development.json
+E:\ChuongTrinhDaoTao\Nam3\CongNgheDotNet_Core\BaiTapLon\Shopping\Shopping\obj\Debug\net8.0\staticwebassets.build.endpoints.json
+E:\ChuongTrinhDaoTao\Nam3\CongNgheDotNet_Core\BaiTapLon\Shopping\Shopping\obj\Debug\net8.0\Shopping.csproj.Up2Date
+E:\ChuongTrinhDaoTao\Nam3\CongNgheDotNet_Core\BaiTapLon\Shopping\Shopping\obj\Debug\net8.0\Shopping.dll
+E:\ChuongTrinhDaoTao\Nam3\CongNgheDotNet_Core\BaiTapLon\Shopping\Shopping\obj\Debug\net8.0\refint\Shopping.dll
+E:\ChuongTrinhDaoTao\Nam3\CongNgheDotNet_Core\BaiTapLon\Shopping\Shopping\obj\Debug\net8.0\Shopping.pdb
+E:\ChuongTrinhDaoTao\Nam3\CongNgheDotNet_Core\BaiTapLon\Shopping\Shopping\obj\Debug\net8.0\Shopping.genruntimeconfig.cache
+E:\ChuongTrinhDaoTao\Nam3\CongNgheDotNet_Core\BaiTapLon\Shopping\Shopping\obj\Debug\net8.0\ref\Shopping.dll
+E:\ChuongTrinhDaoTao\Nam3\CongNgheDotNet_Core\BaiTapLon\Shopping\Shopping\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
+D:\ASP.NET core\Shopping\Shopping\bin\Debug\net8.0\appsettings.Development.json
+D:\ASP.NET core\Shopping\Shopping\bin\Debug\net8.0\appsettings.json
+D:\ASP.NET core\Shopping\Shopping\bin\Debug\net8.0\Shopping.staticwebassets.runtime.json
+D:\ASP.NET core\Shopping\Shopping\bin\Debug\net8.0\Shopping.staticwebassets.endpoints.json
+D:\ASP.NET core\Shopping\Shopping\bin\Debug\net8.0\Shopping.exe
+D:\ASP.NET core\Shopping\Shopping\bin\Debug\net8.0\Shopping.deps.json
+D:\ASP.NET core\Shopping\Shopping\bin\Debug\net8.0\Shopping.runtimeconfig.json
+D:\ASP.NET core\Shopping\Shopping\bin\Debug\net8.0\Shopping.dll
+D:\ASP.NET core\Shopping\Shopping\bin\Debug\net8.0\Shopping.pdb
+D:\ASP.NET core\Shopping\Shopping\bin\Debug\net8.0\Humanizer.dll
+D:\ASP.NET core\Shopping\Shopping\bin\Debug\net8.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+D:\ASP.NET core\Shopping\Shopping\bin\Debug\net8.0\Microsoft.Data.SqlClient.dll
+D:\ASP.NET core\Shopping\Shopping\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+D:\ASP.NET core\Shopping\Shopping\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\ASP.NET core\Shopping\Shopping\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\ASP.NET core\Shopping\Shopping\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\ASP.NET core\Shopping\Shopping\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\ASP.NET core\Shopping\Shopping\bin\Debug\net8.0\Microsoft.Identity.Client.dll
+D:\ASP.NET core\Shopping\Shopping\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\ASP.NET core\Shopping\Shopping\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+D:\ASP.NET core\Shopping\Shopping\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+D:\ASP.NET core\Shopping\Shopping\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\ASP.NET core\Shopping\Shopping\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+D:\ASP.NET core\Shopping\Shopping\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
+D:\ASP.NET core\Shopping\Shopping\bin\Debug\net8.0\Newtonsoft.Json.dll
+D:\ASP.NET core\Shopping\Shopping\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+D:\ASP.NET core\Shopping\Shopping\bin\Debug\net8.0\System.Drawing.Common.dll
+D:\ASP.NET core\Shopping\Shopping\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+D:\ASP.NET core\Shopping\Shopping\bin\Debug\net8.0\System.Runtime.Caching.dll
+D:\ASP.NET core\Shopping\Shopping\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+D:\ASP.NET core\Shopping\Shopping\bin\Debug\net8.0\System.Security.Permissions.dll
+D:\ASP.NET core\Shopping\Shopping\bin\Debug\net8.0\System.Windows.Extensions.dll
+D:\ASP.NET core\Shopping\Shopping\bin\Debug\net8.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\ASP.NET core\Shopping\Shopping\bin\Debug\net8.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\ASP.NET core\Shopping\Shopping\bin\Debug\net8.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\ASP.NET core\Shopping\Shopping\bin\Debug\net8.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\ASP.NET core\Shopping\Shopping\bin\Debug\net8.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\ASP.NET core\Shopping\Shopping\bin\Debug\net8.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\ASP.NET core\Shopping\Shopping\bin\Debug\net8.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+D:\ASP.NET core\Shopping\Shopping\bin\Debug\net8.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\ASP.NET core\Shopping\Shopping\bin\Debug\net8.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\ASP.NET core\Shopping\Shopping\bin\Debug\net8.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\ASP.NET core\Shopping\Shopping\bin\Debug\net8.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\ASP.NET core\Shopping\Shopping\bin\Debug\net8.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+D:\ASP.NET core\Shopping\Shopping\obj\Debug\net8.0\Shopping.csproj.AssemblyReference.cache
+D:\ASP.NET core\Shopping\Shopping\obj\Debug\net8.0\rpswa.dswa.cache.json
+D:\ASP.NET core\Shopping\Shopping\obj\Debug\net8.0\Shopping.GeneratedMSBuildEditorConfig.editorconfig
+D:\ASP.NET core\Shopping\Shopping\obj\Debug\net8.0\Shopping.AssemblyInfoInputs.cache
+D:\ASP.NET core\Shopping\Shopping\obj\Debug\net8.0\Shopping.AssemblyInfo.cs
+D:\ASP.NET core\Shopping\Shopping\obj\Debug\net8.0\Shopping.csproj.CoreCompileInputs.cache
+D:\ASP.NET core\Shopping\Shopping\obj\Debug\net8.0\Shopping.MvcApplicationPartsAssemblyInfo.cache
+D:\ASP.NET core\Shopping\Shopping\obj\Debug\net8.0\Shopping.RazorAssemblyInfo.cache
+D:\ASP.NET core\Shopping\Shopping\obj\Debug\net8.0\Shopping.RazorAssemblyInfo.cs
+D:\ASP.NET core\Shopping\Shopping\obj\Debug\net8.0\rjimswa.dswa.cache.json
+D:\ASP.NET core\Shopping\Shopping\obj\Debug\net8.0\rjsmrazor.dswa.cache.json
+D:\ASP.NET core\Shopping\Shopping\obj\Debug\net8.0\rjsmcshtml.dswa.cache.json
+D:\ASP.NET core\Shopping\Shopping\obj\Debug\net8.0\scopedcss\Areas\Admin\Views\Shared\_Layout.cshtml.rz.scp.css
+D:\ASP.NET core\Shopping\Shopping\obj\Debug\net8.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+D:\ASP.NET core\Shopping\Shopping\obj\Debug\net8.0\scopedcss\bundle\Shopping.styles.css
+D:\ASP.NET core\Shopping\Shopping\obj\Debug\net8.0\scopedcss\projectbundle\Shopping.bundle.scp.css
+D:\ASP.NET core\Shopping\Shopping\obj\Debug\net8.0\staticwebassets.build.json
+D:\ASP.NET core\Shopping\Shopping\obj\Debug\net8.0\staticwebassets.build.json.cache
+D:\ASP.NET core\Shopping\Shopping\obj\Debug\net8.0\staticwebassets.development.json
+D:\ASP.NET core\Shopping\Shopping\obj\Debug\net8.0\staticwebassets.build.endpoints.json
+D:\ASP.NET core\Shopping\Shopping\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
+D:\ASP.NET core\Shopping\Shopping\obj\Debug\net8.0\Shopping.csproj.Up2Date
+D:\ASP.NET core\Shopping\Shopping\obj\Debug\net8.0\Shopping.dll
+D:\ASP.NET core\Shopping\Shopping\obj\Debug\net8.0\refint\Shopping.dll
+D:\ASP.NET core\Shopping\Shopping\obj\Debug\net8.0\Shopping.pdb
+D:\ASP.NET core\Shopping\Shopping\obj\Debug\net8.0\Shopping.genruntimeconfig.cache
+D:\ASP.NET core\Shopping\Shopping\obj\Debug\net8.0\ref\Shopping.dll
+E:\A\ASP.NET core\Shopping\Shopping\bin\Debug\net8.0\appsettings.Development.json
+E:\A\ASP.NET core\Shopping\Shopping\bin\Debug\net8.0\appsettings.json
+E:\A\ASP.NET core\Shopping\Shopping\bin\Debug\net8.0\Shopping.staticwebassets.endpoints.json
+E:\A\ASP.NET core\Shopping\Shopping\bin\Debug\net8.0\Shopping.staticwebassets.runtime.json
+E:\A\ASP.NET core\Shopping\Shopping\bin\Debug\net8.0\Shopping.exe
+E:\A\ASP.NET core\Shopping\Shopping\bin\Debug\net8.0\Shopping.deps.json
+E:\A\ASP.NET core\Shopping\Shopping\bin\Debug\net8.0\Shopping.runtimeconfig.json
+E:\A\ASP.NET core\Shopping\Shopping\bin\Debug\net8.0\Shopping.dll
+E:\A\ASP.NET core\Shopping\Shopping\bin\Debug\net8.0\Shopping.pdb
+E:\A\ASP.NET core\Shopping\Shopping\bin\Debug\net8.0\Humanizer.dll
+E:\A\ASP.NET core\Shopping\Shopping\bin\Debug\net8.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+E:\A\ASP.NET core\Shopping\Shopping\bin\Debug\net8.0\Microsoft.Data.SqlClient.dll
+E:\A\ASP.NET core\Shopping\Shopping\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+E:\A\ASP.NET core\Shopping\Shopping\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+E:\A\ASP.NET core\Shopping\Shopping\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Design.dll
+E:\A\ASP.NET core\Shopping\Shopping\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+E:\A\ASP.NET core\Shopping\Shopping\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+E:\A\ASP.NET core\Shopping\Shopping\bin\Debug\net8.0\Microsoft.Identity.Client.dll
+E:\A\ASP.NET core\Shopping\Shopping\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+E:\A\ASP.NET core\Shopping\Shopping\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+E:\A\ASP.NET core\Shopping\Shopping\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+E:\A\ASP.NET core\Shopping\Shopping\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+E:\A\ASP.NET core\Shopping\Shopping\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+E:\A\ASP.NET core\Shopping\Shopping\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
+E:\A\ASP.NET core\Shopping\Shopping\bin\Debug\net8.0\Newtonsoft.Json.dll
+E:\A\ASP.NET core\Shopping\Shopping\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+E:\A\ASP.NET core\Shopping\Shopping\bin\Debug\net8.0\System.Drawing.Common.dll
+E:\A\ASP.NET core\Shopping\Shopping\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+E:\A\ASP.NET core\Shopping\Shopping\bin\Debug\net8.0\System.Runtime.Caching.dll
+E:\A\ASP.NET core\Shopping\Shopping\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+E:\A\ASP.NET core\Shopping\Shopping\bin\Debug\net8.0\System.Security.Permissions.dll
+E:\A\ASP.NET core\Shopping\Shopping\bin\Debug\net8.0\System.Windows.Extensions.dll
+E:\A\ASP.NET core\Shopping\Shopping\bin\Debug\net8.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\A\ASP.NET core\Shopping\Shopping\bin\Debug\net8.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\A\ASP.NET core\Shopping\Shopping\bin\Debug\net8.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+E:\A\ASP.NET core\Shopping\Shopping\bin\Debug\net8.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\A\ASP.NET core\Shopping\Shopping\bin\Debug\net8.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\A\ASP.NET core\Shopping\Shopping\bin\Debug\net8.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+E:\A\ASP.NET core\Shopping\Shopping\bin\Debug\net8.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+E:\A\ASP.NET core\Shopping\Shopping\bin\Debug\net8.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+E:\A\ASP.NET core\Shopping\Shopping\bin\Debug\net8.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+E:\A\ASP.NET core\Shopping\Shopping\bin\Debug\net8.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+E:\A\ASP.NET core\Shopping\Shopping\bin\Debug\net8.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+E:\A\ASP.NET core\Shopping\Shopping\bin\Debug\net8.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+E:\A\ASP.NET core\Shopping\Shopping\obj\Debug\net8.0\Shopping.csproj.AssemblyReference.cache
+E:\A\ASP.NET core\Shopping\Shopping\obj\Debug\net8.0\rpswa.dswa.cache.json
+E:\A\ASP.NET core\Shopping\Shopping\obj\Debug\net8.0\Shopping.GeneratedMSBuildEditorConfig.editorconfig
+E:\A\ASP.NET core\Shopping\Shopping\obj\Debug\net8.0\Shopping.AssemblyInfoInputs.cache
+E:\A\ASP.NET core\Shopping\Shopping\obj\Debug\net8.0\Shopping.AssemblyInfo.cs
+E:\A\ASP.NET core\Shopping\Shopping\obj\Debug\net8.0\Shopping.csproj.CoreCompileInputs.cache
+E:\A\ASP.NET core\Shopping\Shopping\obj\Debug\net8.0\Shopping.MvcApplicationPartsAssemblyInfo.cache
+E:\A\ASP.NET core\Shopping\Shopping\obj\Debug\net8.0\Shopping.RazorAssemblyInfo.cache
+E:\A\ASP.NET core\Shopping\Shopping\obj\Debug\net8.0\Shopping.RazorAssemblyInfo.cs
+E:\A\ASP.NET core\Shopping\Shopping\obj\Debug\net8.0\rjimswa.dswa.cache.json
+E:\A\ASP.NET core\Shopping\Shopping\obj\Debug\net8.0\rjsmrazor.dswa.cache.json
+E:\A\ASP.NET core\Shopping\Shopping\obj\Debug\net8.0\rjsmcshtml.dswa.cache.json
+E:\A\ASP.NET core\Shopping\Shopping\obj\Debug\net8.0\scopedcss\Areas\Admin\Views\Shared\_Layout.cshtml.rz.scp.css
+E:\A\ASP.NET core\Shopping\Shopping\obj\Debug\net8.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+E:\A\ASP.NET core\Shopping\Shopping\obj\Debug\net8.0\scopedcss\bundle\Shopping.styles.css
+E:\A\ASP.NET core\Shopping\Shopping\obj\Debug\net8.0\scopedcss\projectbundle\Shopping.bundle.scp.css
+E:\A\ASP.NET core\Shopping\Shopping\obj\Debug\net8.0\staticwebassets.build.json
+E:\A\ASP.NET core\Shopping\Shopping\obj\Debug\net8.0\staticwebassets.build.json.cache
+E:\A\ASP.NET core\Shopping\Shopping\obj\Debug\net8.0\staticwebassets.development.json
+E:\A\ASP.NET core\Shopping\Shopping\obj\Debug\net8.0\staticwebassets.build.endpoints.json
+E:\A\ASP.NET core\Shopping\Shopping\obj\Debug\net8.0\Shopping.csproj.Up2Date
+E:\A\ASP.NET core\Shopping\Shopping\obj\Debug\net8.0\Shopping.dll
+E:\A\ASP.NET core\Shopping\Shopping\obj\Debug\net8.0\refint\Shopping.dll
+E:\A\ASP.NET core\Shopping\Shopping\obj\Debug\net8.0\Shopping.pdb
+E:\A\ASP.NET core\Shopping\Shopping\obj\Debug\net8.0\Shopping.genruntimeconfig.cache
+E:\A\ASP.NET core\Shopping\Shopping\obj\Debug\net8.0\ref\Shopping.dll
+C:\Users\duykh\AppData\Local\Temp\opencode\shopbuild\appsettings.Development.json
+C:\Users\duykh\AppData\Local\Temp\opencode\shopbuild\appsettings.json
+C:\Users\duykh\AppData\Local\Temp\opencode\shopbuild\Shopping.staticwebassets.runtime.json
+C:\Users\duykh\AppData\Local\Temp\opencode\shopbuild\Shopping.staticwebassets.endpoints.json
+C:\Users\duykh\AppData\Local\Temp\opencode\shopbuild\Shopping.exe
+C:\Users\duykh\AppData\Local\Temp\opencode\shopbuild\Shopping.deps.json
+C:\Users\duykh\AppData\Local\Temp\opencode\shopbuild\Shopping.runtimeconfig.json
+C:\Users\duykh\AppData\Local\Temp\opencode\shopbuild\Shopping.dll
+C:\Users\duykh\AppData\Local\Temp\opencode\shopbuild\Shopping.pdb
+E:\A\ASP.NET core\Shopping\Shopping\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
